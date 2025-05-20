@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node16" apprev="20981" hassounds="0" appversion="7.1.7">
+  <panorama id="node16">
+    <input leveltilesize="510" overlap="1" width="1520" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" height="1520" levelingroll="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-17.0473" fovmode="2">
+      <start projection="4" fov="100" pan="169.454" tilt="1.11677"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" fov="140" pan="360" tilt="90"/>
+    </view>
+    <userdata datetime="20/05/2025 01:11" heading="-17.0473" author="" latitude="-26.98842674" comment="" source="" copyright="" tags="IMG_20250517_160934_141_143_HDR" longitude="-48.63326181" nodeid="node16" title="Edris Tabacaria Balneário Camboriú" description="" info="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label background="1" enabled="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" height="20" borderalpha="1" bordercolor="0x000000" border="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" url="{node2}" target="$fwd" id="Point02" title="Edris Tabacaria Balneário Camboriú" description="" distance="4.70548" pan="-182.124" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" softedge="0" zoomafterinfov="140" enabled="1" zoomout="0" type="mesh" zoomfov="40" delay="none" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input leveltilesize="510" overlap="1" width="1520" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" height="1520" levelingroll="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-35.6731" fovmode="2">
+      <start projection="4" fov="100" pan="176.163" tilt="-5.54805"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" fov="140" pan="360" tilt="90"/>
+    </view>
+    <userdata datetime="18/05/2025 23:25" heading="-35.6731" author="" latitude="-26.98847183" comment="" source="" copyright="" tags="IMG_20250517_160934_141_143_HDR" longitude="-48.63330323" nodeid="node15" title="Edris Tabacaria Balneário Camboriú" description="" info="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label background="1" enabled="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" height="20" borderalpha="1" bordercolor="0x000000" border="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" url="{node2}" target="$fwd" id="Point01" title="Edris Tabacaria Balneário Camboriú" description="" distance="5.33642" pan="-120.652" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" softedge="0" zoomafterinfov="140" enabled="1" zoomout="0" type="mesh" zoomfov="40" delay="none" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" overlap="1" width="1520" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" height="1520" levelingroll="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="163.491" fovmode="2">
+      <start projection="4" fov="100" pan="1.77761" tilt="-0.229997"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" fov="140" pan="360" tilt="90"/>
+    </view>
+    <userdata datetime="17/05/2025 21:05" heading="163.491" author="" latitude="-26.98846763" comment="" source="" copyright="" tags="IMG_20250517_160934_141_143_HDR" longitude="-48.63324958" nodeid="node2" title="Edris Tabacaria Balneário Camboriú" description="" info="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label background="1" enabled="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" height="20" borderalpha="1" bordercolor="0x000000" border="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" url="{node3}" target="$fwd" id="Point02" title="Edris Tabacaria Balneário Camboriú" description="" distance="3.49186" pan="341.296" tilt="0"/>
+      <hotspot skinid="ht_node" url="{node15}" target="$fwd" id="Point01" title="Edris Tabacaria Balneário Camboriú" description="" distance="5.33642" pan="258.512" tilt="0"/>
+      <hotspot skinid="ht_node" url="{node16}" target="$fwd" id="Point03" title="Edris Tabacaria Balneário Camboriú" description="" distance="4.70548" pan="178.415" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" softedge="0" zoomafterinfov="140" enabled="1" zoomout="0" type="mesh" zoomfov="40" delay="none" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" overlap="1" width="1520" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" height="1520" levelingroll="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="265.409" fovmode="2">
+      <start projection="4" fov="100" pan="88.4796" tilt="-0.603264"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" fov="140" pan="360" tilt="90"/>
+    </view>
+    <userdata datetime="17/05/2025 21:05" heading="265.409" author="" latitude="-26.98849901" comment="" source="" copyright="" tags="IMG_20250517_160934_141_143_HDR" longitude="-48.63325093" nodeid="node3" title="Edris Tabacaria Balneário Camboriú" description="" info="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label background="1" enabled="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" height="20" borderalpha="1" bordercolor="0x000000" border="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" url="{node2}" target="$fwd" id="Point01" title="Edris Tabacaria Balneário Camboriú" description="" distance="3.49186" pan="263.214" tilt="0"/>
+      <hotspot skinid="ht_node" url="{node8}" target="$fwd" id="Point02" title="Edris Tabacaria Balneário Camboriú" description="" distance="4.13048" pan="441.985" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" softedge="0" zoomafterinfov="140" enabled="1" zoomout="0" type="mesh" zoomfov="40" delay="none" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" overlap="1" width="1520" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" height="1520" levelingroll="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="263.938" fovmode="2">
+      <start projection="4" fov="100" pan="92.3087" tilt="1.32354"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" fov="140" pan="360" tilt="90"/>
+    </view>
+    <userdata datetime="17/05/2025 21:06" heading="263.938" author="" latitude="-26.98857252" comment="" source="" copyright="" tags="IMG_20250517_160934_141_143_HDR" longitude="-48.63325494" nodeid="node5" title="Edris Tabacaria Balneário Camboriú" description="" info="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label background="1" enabled="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" height="20" borderalpha="1" bordercolor="0x000000" border="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" url="{node8}" target="$fwd" id="Point01" title="Edris Tabacaria Balneário Camboriú" description="" distance="4.05363" pan="261.809" tilt="0"/>
+      <hotspot skinid="ht_node" url="{node6}" target="$fwd" id="Point02" title="Edris Tabacaria Balneário Camboriú" description="" distance="3.29129" pan="442.506" tilt="0"/>
+      <hotspot skinid="ht_node" url="{node11}" target="$fwd" id="Point03" title="Edris Tabacaria Balneário Camboriú" description="" distance="3.25496" pan="173.958" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" softedge="0" zoomafterinfov="140" enabled="1" zoomout="0" type="mesh" zoomfov="40" delay="none" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltilesize="510" overlap="1" width="1520" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" height="1520" levelingroll="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="266.169" fovmode="2">
+      <start projection="4" fov="100" pan="86.7358" tilt="-3.74298"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" fov="140" pan="360" tilt="90"/>
+    </view>
+    <userdata datetime="17/05/2025 21:07" heading="266.169" author="" latitude="-26.98860211" comment="" source="" copyright="" tags="IMG_20250517_160934_141_143_HDR" longitude="-48.63325577" nodeid="node6" title="Edris Tabacaria Balneário Camboriú" description="" info="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label background="1" enabled="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" height="20" borderalpha="1" bordercolor="0x000000" border="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" url="{node5}" target="$fwd" id="Point01" title="Edris Tabacaria Balneário Camboriú" description="" distance="3.29129" pan="264.737" tilt="0"/>
+      <hotspot skinid="ht_node" url="{node7}" target="$fwd" id="Point02" title="Edris Tabacaria Balneário Camboriú" description="" distance="3.6585" pan="444.089" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" softedge="0" zoomafterinfov="140" enabled="1" zoomout="0" type="mesh" zoomfov="40" delay="none" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltilesize="510" overlap="1" width="1520" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" height="1520" levelingroll="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="265.909" fovmode="2">
+      <start projection="4" fov="100" pan="88.7897" tilt="-6.4232"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" fov="140" pan="360" tilt="90"/>
+    </view>
+    <userdata datetime="17/05/2025 21:07" heading="265.909" author="" latitude="-26.98863499" comment="" source="" copyright="" tags="IMG_20250517_160934_141_143_HDR" longitude="-48.63325711" nodeid="node7" title="Edris Tabacaria Balneário Camboriú" description="" info="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label background="1" enabled="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" height="20" borderalpha="1" bordercolor="0x000000" border="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" url="{node6}" target="$fwd" id="Point01" title="Edris Tabacaria Balneário Camboriú" description="" distance="3.6585" pan="263.829" tilt="0"/>
+      <hotspot skinid="ht_node" url="{node9}" target="$fwd" id="Point02" title="Edris Tabacaria Balneário Camboriú" description="" distance="3.25471" pan="100.077" tilt="0"/>
+      <hotspot skinid="ht_node" url="{node10}" target="$fwd" id="Point03" title="Edris Tabacaria Balneário Camboriú" description="" distance="3.3547" pan="177.049" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" softedge="0" zoomafterinfov="140" enabled="1" zoomout="0" type="mesh" zoomfov="40" delay="none" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltilesize="510" overlap="1" width="1520" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" height="1520" levelingroll="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-91.1774" fovmode="2">
+      <start projection="4" fov="100" pan="85.013" tilt="-1.72904"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" fov="140" pan="360" tilt="90"/>
+    </view>
+    <userdata datetime="17/05/2025 21:08" heading="-91.1774" author="" latitude="-26.98853609" comment="" source="" copyright="" tags="IMG_20250517_160934_141_143_HDR" longitude="-48.63325342" nodeid="node8" title="Edris Tabacaria Balneário Camboriú" description="" info="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label background="1" enabled="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" height="20" borderalpha="1" bordercolor="0x000000" border="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" url="{node3}" target="$fwd" id="Point01" title="Edris Tabacaria Balneário Camboriú" description="" distance="4.13048" pan="-94.6018" tilt="0"/>
+      <hotspot skinid="ht_node" url="{node5}" target="$fwd" id="Point02" title="Edris Tabacaria Balneário Camboriú" description="" distance="4.05363" pan="86.6933" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" softedge="0" zoomafterinfov="140" enabled="1" zoomout="0" type="mesh" zoomfov="40" delay="none" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltilesize="510" overlap="1" width="1520" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" height="1520" levelingroll="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="190.655" fovmode="2">
+      <start projection="4" fov="100" pan="-1.89782" tilt="-3.45556"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" fov="140" pan="360" tilt="90"/>
+    </view>
+    <userdata datetime="17/05/2025 21:09" heading="190.655" author="" latitude="-26.98866337" comment="" source="" copyright="" tags="IMG_20250517_160934_141_143_HDR" longitude="-48.63324907" nodeid="node9" title="Edris Tabacaria Balneário Camboriú" description="" info="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label background="1" enabled="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" height="20" borderalpha="1" bordercolor="0x000000" border="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" url="{node7}" target="$fwd" id="Point01" title="Edris Tabacaria Balneário Camboriú" description="" distance="3.25471" pan="204.823" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" softedge="0" zoomafterinfov="140" enabled="1" zoomout="0" type="mesh" zoomfov="40" delay="none" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltilesize="510" overlap="1" width="1520" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" height="1520" levelingroll="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="86.7596" fovmode="2">
+      <start projection="4" fov="100" pan="-95.5704" tilt="0.563334"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" fov="140" pan="360" tilt="90"/>
+    </view>
+    <userdata datetime="17/05/2025 21:17" heading="86.7596" author="" latitude="-26.98863439" comment="" source="" copyright="" tags="IMG_20250517_160934_141_143_HDR" longitude="-48.63322326" nodeid="node10" title="Edris Tabacaria Balneário Camboriú" description="" info="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label background="1" enabled="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" height="20" borderalpha="1" bordercolor="0x000000" border="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" url="{node7}" target="$fwd" id="Point01" title="Edris Tabacaria Balneário Camboriú" description="" distance="3.3547" pan="177.899" tilt="0"/>
+      <hotspot skinid="ht_node" url="{node11}" target="$fwd" id="Point02" title="Edris Tabacaria Balneário Camboriú" description="" distance="6.88172" pan="85.7943" tilt="0"/>
+      <hotspot skinid="ht_node" url="{node13}" target="$fwd" id="Point03" title="Edris Tabacaria Balneário Camboriú" description="" distance="2.84144" pan="-5.19148" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" softedge="0" zoomafterinfov="140" enabled="1" zoomout="0" type="mesh" zoomfov="40" delay="none" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltilesize="510" overlap="1" width="1520" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" height="1520" levelingroll="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="88.3168" fovmode="2">
+      <start projection="4" fov="100" pan="-98.6457" tilt="-1.26468"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" fov="140" pan="360" tilt="90"/>
+    </view>
+    <userdata datetime="17/05/2025 21:17" heading="88.3168" author="" latitude="-26.98857251" comment="" source="" copyright="" tags="IMG_20250517_160934_141_143_HDR" longitude="-48.63322209" nodeid="node11" title="Edris Tabacaria Balneário Camboriú" description="" info="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label background="1" enabled="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" height="20" borderalpha="1" bordercolor="0x000000" border="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" url="{node10}" target="$fwd" id="Point01" title="Edris Tabacaria Balneário Camboriú" description="" distance="6.88172" pan="267.352" tilt="0"/>
+      <hotspot skinid="ht_node" url="{node12}" target="$fwd" id="Point03" title="Edris Tabacaria Balneário Camboriú" description="" distance="2.8934" pan="-4.32643" tilt="0"/>
+      <hotspot skinid="ht_node" url="{node5}" target="$fwd" id="Point02" title="Edris Tabacaria Balneário Camboriú" description="" distance="3.25496" pan="178.336" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" softedge="0" zoomafterinfov="140" enabled="1" zoomout="0" type="mesh" zoomfov="40" delay="none" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltilesize="510" overlap="1" width="1520" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" height="1520" levelingroll="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="79.3113" fovmode="2">
+      <start projection="4" fov="100" pan="-96.9286" tilt="0.273208"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" fov="140" pan="360" tilt="90"/>
+    </view>
+    <userdata datetime="17/05/2025 21:19" heading="79.3113" author="" latitude="-26.98857371" comment="" source="" copyright="" tags="IMG_20250517_160934_141_143_HDR" longitude="-48.63319292" nodeid="node12" title="Edris Tabacaria Balneário Camboriú" description="" info="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label background="1" enabled="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" height="20" borderalpha="1" bordercolor="0x000000" border="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" url="{node11}" target="$fwd" id="Point01" title="Edris Tabacaria Balneário Camboriú" description="" distance="2.8934" pan="166.668" tilt="0"/>
+      <hotspot skinid="ht_node" url="{node14}" target="$fwd" id="Point02" title="Edris Tabacaria Balneário Camboriú" description="" distance="3.22381" pan="-8.90981" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" softedge="0" zoomafterinfov="140" enabled="1" zoomout="0" type="mesh" zoomfov="40" delay="none" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input leveltilesize="510" overlap="1" width="1520" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" height="1520" levelingroll="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="77.6019" fovmode="2">
+      <start projection="4" fov="100" pan="-101.311" tilt="-2.50204"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" fov="140" pan="360" tilt="90"/>
+    </view>
+    <userdata datetime="17/05/2025 21:20" heading="77.6019" author="" latitude="-26.98863526" comment="" source="" copyright="" tags="IMG_20250517_160934_141_143_HDR" longitude="-48.63319460" nodeid="node13" title="Edris Tabacaria Balneário Camboriú" description="" info="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label background="1" enabled="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" height="20" borderalpha="1" bordercolor="0x000000" border="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" url="{node10}" target="$fwd" id="Point01" title="Edris Tabacaria Balneário Camboriú" description="" distance="2.84144" pan="165.651" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" softedge="0" zoomafterinfov="140" enabled="1" zoomout="0" type="mesh" zoomfov="40" delay="none" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input leveltilesize="510" overlap="1" width="1520" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000" levelbias="0.400" height="1520" levelingroll="0">
+      <level preload="0" predecode="0" height="1520" width="1520"/>
+      <level preload="0" predecode="0" height="760" width="760"/>
+      <level preload="1" predecode="1" height="380" width="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="80.5823" fovmode="2">
+      <start projection="4" fov="100" pan="-98.762" tilt="-2.70553"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" fov="140" pan="360" tilt="90"/>
+    </view>
+    <userdata datetime="17/05/2025 21:20" heading="80.5823" author="" latitude="-26.98857281" comment="" source="" copyright="" tags="IMG_20250517_160934_141_143_HDR" longitude="-48.63316040" nodeid="node14" title="Edris Tabacaria Balneário Camboriú" description="" info="" customnodeid=""/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label background="1" enabled="1" width="180" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" wordwrap="1" textcolor="0x000000" borderradius="1" height="20" borderalpha="1" bordercolor="0x000000" border="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" url="{node12}" target="$fwd" id="Point01" title="Edris Tabacaria Balneário Camboriú" description="" distance="3.22381" pan="172.361" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="7" softedge="0" zoomafterinfov="140" enabled="1" zoomout="0" type="mesh" zoomfov="40" delay="none" zoomafteroutfov="40" blendcolor="0x000000" zoomoutpause="1" blendtime="1" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control simulatemass="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" contextprojections="0" hideabout="0" contextvr="1" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" lockedkeyboard="0" lockedwheel="0" rubberband="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" copyright="" tags="" title="EDRIS TABACARIA" description="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
